@@ -1,2 +1,3 @@
 # React-web-share-api
-Created with CodeSandbox
+
+- 使用行動裝置點擊按鈕可叫出手機預設分享選單
